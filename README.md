@@ -1,2 +1,2 @@
 # digitalclock
-Created with CodeSandbox
+using the React.js
